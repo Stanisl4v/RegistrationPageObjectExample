@@ -1,4 +1,5 @@
-# registrationFormAutomation
-This is an example of how you can automate registration form (including creating an email account). This can be useful if you are struggling with locating an element in an iFrame or switching tabs. You can also find a trick how to randomise username and email while performing multiple tests.
+# RegistrationPageObjectExample
+This is the way of how you can automate registration form (mail was creating with mailinator). Elements was located with iframe or switching tabs. Username and password was creating with Java random() math method were you can see multiple testing.
 
-IMPORTANT Do not use this out of the box, you should change it due to your specific requirements!
+IMPORTANT Before use this out of box, you should make some changes it due to your requirements!
+
